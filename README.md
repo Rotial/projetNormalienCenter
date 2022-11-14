@@ -12,7 +12,7 @@ Création d'un site de cours de remise à niveau en sciences
 
 ### MLD
 
-![](CaptureMLDremise.PNG)
+![](CaptureMLDRemise.PNG)
 
 
 
